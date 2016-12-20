@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CA.Learn.Model
 {
-    class UserModel
+    public class UserModel
     {
     }
 }
