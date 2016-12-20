@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CA.Learn.Utils
 {
-    class ReflectionUtil
+    public class ReflectionUtil
     {
     }
 }
